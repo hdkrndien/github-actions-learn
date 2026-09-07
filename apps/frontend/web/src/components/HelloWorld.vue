@@ -1,7 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'vue'
 import { Button } from 'MR/ui'
-
 </script>
 
 <template>
